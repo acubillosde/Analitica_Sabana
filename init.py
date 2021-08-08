@@ -1,4 +1,4 @@
-course_id = 'Analitica_Datos'
+course_id = 'Analitica_Sabana_Completo'
 github_repo = 'acubillosde/%s'%course_id
 zip_file_url="https://github.com/%s/archive/main.zip"%github_repo
 
